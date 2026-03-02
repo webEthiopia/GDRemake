@@ -12,7 +12,7 @@ I was bored and looking for a project when I saw this video from GDColon:
     </td>
     <td align="center" valign="middle">
       <a href="https://www.youtube.com/@GDColon">
-        <img src="[https://github.com/GDColon.png]([https://yt3.ggpht.com/0ANYBL8Rgo-_JoiVFvow3yyoudlZaLRbGgHZ3jKEwFKJB96YBC6F3vqDgQWPwJkREReqMTlW=s48-c-k-c0x00ffffff-no-r](https://github.com/GDColon.png))" width="50" height="50" style="border-radius: 50%;" alt="GDColon">
+        <img src="https://github.com/GDColon.png" width="50" height="50" style="border-radius: 50%;" alt="GDColon">
         <br />
         <sub><b>GDColon</b></sub>
       </a>
